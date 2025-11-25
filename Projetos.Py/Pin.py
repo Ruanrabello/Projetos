@@ -6,6 +6,3 @@ def validate_pin(pin):
 print(validate_pin(1234))
 print(validate_pin('1T"q'))
 
-
-# https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/python
-#! os () servem para ordem de acontecimentos
