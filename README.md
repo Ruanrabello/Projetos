@@ -1,35 +1,52 @@
 📚 Projetos – Python, Java, SQL e VBA
+
 Bem-vindo ao meu repositório! 👋
 Aqui você encontra uma coleção dos meus projetos desenvolvidos em Python, Java, SQL e VBA, usados para aprender, praticar e automatizar tarefas do dia a dia.
 
 
-👨‍💻 Sobre mim
+👨‍💻 Sobre mim:
+
 Meu nome é Ruan Rabello, sou estudante de Engenharia da Computação e apaixonado por tecnologia.
 Atualmente estudo programação, banco de dados, automação e desenvolvimento de sistemas — sempre buscando melhorar minhas habilidades e criar soluções que facilitem rotinas reais.
 Tenho experiência com:
 
-Python (automação, APIs, SQL, scripts de dados)
+  Python (automação, APIs, SQL, scripts de dados)
+  
+  Java (POO, projetos acadêmicos, lógica)
+  
+  SQL (consultas, criação de tabelas, manipulação de dados)
+  
+  VBA (macros, automação de Excel, dashboards)
+  
+  Git e GitHub (versionamento e organização de projetos)
 
-Java (POO, projetos acadêmicos, lógica)
 
-SQL (consultas, criação de tabelas, manipulação de dados)
 
-VBA (macros, automação de Excel, dashboards)
+  
+  
 
-Git e GitHub (versionamento e organização de projetos)
 
 
 📂 Estrutura do Repositório
+
 Este repositório está dividido por categorias, facilitando a navegação:
 PastaConteúdoProjetos-SQL-PY/Projetos que integram Python com SQLProjetos-API-py/APIs e integrações desenvolvidas em PythonProjetos-Java/Projetos, exercícios e aplicações em JavaProjetos.Py/Scripts, automações e pequenos projetos em PythonVba/Macros e automações construídas em VBA
 
 🛠️ Tecnologias utilizadas
--Python
--Java
--MySQL / SQL Server
--VBA
--Git & GitHub
--APIs Restful
+
+  -Python
+  
+  -Java
+  
+  -MySQL / SQL Server
+  
+  -VBA
+  
+  -Git & GitHub
+  
+  -APIs Restful
+
+
 
 
 🎯 Objetivo do Repositório
@@ -39,7 +56,9 @@ Busco criar soluções úteis, explorando boas práticas, organização de códi
 
 📬 Contato
 Se quiser trocar ideias, colaborar ou conhecer mais dos meus projetos:
+
   LinkedIn: https://www.linkedin.com/in/ruan-rabello-da-silva-9032b5274/
+  
   GitHub: https://github.com/Ruanrabello
 
 
