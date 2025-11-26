@@ -4,21 +4,23 @@ Bem-vindo ao meu repositório! 👋
 Aqui você encontra uma coleção dos meus projetos desenvolvidos em Python, Java, SQL e VBA, usados para aprender, praticar e automatizar tarefas do dia a dia.
 
 
+
+
 👨‍💻 Sobre mim:
 
 Meu nome é Ruan Rabello, sou estudante de Engenharia da Computação e apaixonado por tecnologia.
 Atualmente estudo programação, banco de dados, automação e desenvolvimento de sistemas — sempre buscando melhorar minhas habilidades e criar soluções que facilitem rotinas reais.
 Tenho experiência com:
 
-  Python (automação, APIs, SQL, scripts de dados)
+	Python (automação, APIs, SQL, scripts de dados)
   
-  Java (POO, projetos acadêmicos, lógica)
+	Java (POO, projetos acadêmicos, lógica)
   
-  SQL (consultas, criação de tabelas, manipulação de dados)
+  	SQL (consultas, criação de tabelas, manipulação de dados)
   
-  VBA (macros, automação de Excel, dashboards)
+  	VBA (macros, automação de Excel, dashboards)
   
-  Git e GitHub (versionamento e organização de projetos)
+  	Git e GitHub (versionamento e organização de projetos)
 
 
 
@@ -30,21 +32,33 @@ Tenho experiência com:
 📂 Estrutura do Repositório
 
 Este repositório está dividido por categorias, facilitando a navegação:
-PastaConteúdoProjetos-SQL-PY/Projetos que integram Python com SQLProjetos-API-py/APIs e integrações desenvolvidas em PythonProjetos-Java/Projetos, exercícios e aplicações em JavaProjetos.Py/Scripts, automações e pequenos projetos em PythonVba/Macros e automações construídas em VBA
+    | Pasta                | Conteúdo                                          |
+| -------------------- | ------------------------------------------------- |
+| **Projetos-SQL-PY/** | Projetos que integram Python com SQL              |
+| **Projetos-API-py/** | APIs e integrações desenvolvidas em Python        |
+| **Projetos-Java/**   | Projetos, exercícios e aplicações em Java         |
+| **Projetos.Py/**     | Scripts, automações e pequenos projetos em Python |
+| **Vba/**             | Macros e automações construídas em VBA            |
+
+
+
+
+
+
 
 🛠️ Tecnologias utilizadas
 
-  -Python
+ 	 -Python
   
-  -Java
+ 	 -Java
   
-  -MySQL / SQL Server
+  	 -MySQL / SQL Server
   
-  -VBA
+ 	 -VBA
   
-  -Git & GitHub
+  	 -Git & GitHub
   
-  -APIs Restful
+ 	 -APIs Restful
 
 
 
